@@ -1,1 +1,51 @@
-[]
+[
+  {
+    "id": "52128074-5528-40ac-b734-2fd3a42e5281",
+    "name": "Owen Bosco",
+    "phone": "701.262.2909 x53920",
+    "email": "Caitlyn_Nicolas73@hotmail.com",
+    "job": "Lead Interactions Strategist"
+  },
+  {
+    "id": "62e9ea04-016a-45b3-bd69-255bfd2e7d76",
+    "name": "David Bosco",
+    "phone": "(652) 322-9405 x283",
+    "email": "Ibrahim.Green99@gmail.com",
+    "job": "Internal Operations Consultant"
+  },
+  {
+    "id": "0024ab26-6c01-4f5e-a8c2-6e66d1862c74",
+    "name": "Doris Fay",
+    "phone": "912.368.0330 x856",
+    "email": "Liliane8@yahoo.com",
+    "job": "Direct Configuration Representative"
+  },
+  {
+    "id": "0c3baf6e-fdc5-41f5-bb1a-b40a9a5dc12e",
+    "name": "Jon Konopelski",
+    "phone": "1-573-318-0387 x9470",
+    "email": "Ivy.Nicolas@gmail.com",
+    "job": "Forward Usability Officer"
+  },
+  {
+    "id": "95f61023-73c3-4285-a95a-1e83e40ab258",
+    "name": "Dominick Kuhic-Wiegand I",
+    "phone": "774-622-4216 x39542",
+    "email": "Henderson.Volkman@gmail.com",
+    "job": "Future Division Developer"
+  },
+  {
+    "id": "6ad5dd04-cda3-41c2-b9e9-2fa179963328",
+    "name": "Daniel Stroman",
+    "phone": "(723) 628-5006 x64450",
+    "email": "Felicita_Veum83@yahoo.com",
+    "job": "Forward Infrastructure Coordinator"
+  },
+  {
+    "id": "f162a680-662a-46c6-89ca-1cea8053f452",
+    "name": "Ms. Nellie Legros",
+    "phone": "534-409-4890",
+    "email": "Jarrett48@yahoo.com",
+    "job": "Central Operations Analyst"
+  }
+]
