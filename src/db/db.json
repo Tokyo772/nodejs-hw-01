@@ -40,5 +40,26 @@
     "phone": "230-373-4648",
     "email": "Curt_Ruecker15@yahoo.com",
     "job": "Human Marketing Associate"
+  },
+  {
+    "id": "ce81bfa6-80fd-4dee-9138-c9e3df55c30c",
+    "name": "Charles Prohaska",
+    "phone": "1-493-884-0734 x45214",
+    "email": "Adan96@yahoo.com",
+    "job": "Forward Response Analyst"
+  },
+  {
+    "id": "9e5adfaf-f688-4a05-9d22-405ed5e521cd",
+    "name": "Estelle Ferry",
+    "phone": "978.772.7702 x9634",
+    "email": "Vladimir72@yahoo.com",
+    "job": "Global Communications Technician"
+  },
+  {
+    "id": "6dde601a-4922-4803-b746-bac57794d542",
+    "name": "Sean Bins",
+    "phone": "449.548.0313 x60466",
+    "email": "Iva.OHara49@yahoo.com",
+    "job": "Senior Tactics Assistant"
   }
 ]
