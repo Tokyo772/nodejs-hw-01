@@ -6,7 +6,7 @@ export const addOneContact = async () => {
   const addContact = Array.from({ length: 1 }, createFakeContact);
   const existData = await fs.readFile(PATH_DB, 'utf-8');
   const newData = [...JSON.parse(existData), ...addContact];
-  await fs.writeFile(PATH_DB, JSON.stringify(newData, null, 2));
+  await fs.writeFile(PATH_DB, JSON.stringify(newData));
 };
 
 addOneContact();
